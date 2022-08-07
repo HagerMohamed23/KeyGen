@@ -1,0 +1,15 @@
+D:\Learning\KeyGen\Keygen\Keygen\bin\Debug\net6.0\Keygen.exe
+D:\Learning\KeyGen\Keygen\Keygen\bin\Debug\net6.0\Keygen.deps.json
+D:\Learning\KeyGen\Keygen\Keygen\bin\Debug\net6.0\Keygen.runtimeconfig.json
+D:\Learning\KeyGen\Keygen\Keygen\bin\Debug\net6.0\Keygen.dll
+D:\Learning\KeyGen\Keygen\Keygen\bin\Debug\net6.0\Keygen.pdb
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.csproj.AssemblyReference.cache
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.AssemblyInfoInputs.cache
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.AssemblyInfo.cs
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.csproj.CoreCompileInputs.cache
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.dll
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\refint\Keygen.dll
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.pdb
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.genruntimeconfig.cache
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\ref\Keygen.dll

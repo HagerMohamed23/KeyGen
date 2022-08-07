@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gnLUcYETDdHwC7cqilyZqqNK0PwOEh7dLiD7WJGdqeJxF4LNeS1nUqMaRJ+bdDI8r3ny3x/d3jVevYWwjmZXkQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learning\\KeyGen\\Keygen\\Keygen\\Keygen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adam.ai\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
