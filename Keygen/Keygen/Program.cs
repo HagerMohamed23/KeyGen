@@ -24,16 +24,19 @@ namespace keygen
             {
                 Console.WriteLine("[INFO] [ValidateLicense] Invalid={0} ValidationCode={1}", validation.Meta.Detail, validation.Meta.code);
             }
+            license = validation.Data;
 
-            //Create License File and save it
-            string test = license_managment.CreateLicenseFile(license_id);
+            //Create License File and save the encrypted data
+            string encrypted_license = license_managment.CreateLicenseFile(license_id);
             using (FileStream fs = File.Create(@"D:\Learning\KeyGen\Keygen\Keygen\license.txt"))
             {
-                char[] value = test.ToCharArray();
+                char[] value = encrypted_license.ToCharArray();
                 fs.Write(Encoding.UTF8.GetBytes(value), 0, value.Length);
             }
 
-            license = validation.Data;
+            //Read license file and decrypt it
+            string decrypted_license = license_managment.DecryptLicenseFile(@"D:\Learning\KeyGen\Keygen\Keygen\license.txt");
+
             //Check if machine is activated
             switch (validation.Meta.code)
             {
