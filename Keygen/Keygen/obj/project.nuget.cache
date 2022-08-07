@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gnLUcYETDdHwC7cqilyZqqNK0PwOEh7dLiD7WJGdqeJxF4LNeS1nUqMaRJ+bdDI8r3ny3x/d3jVevYWwjmZXkQ==",
+  "dgSpecHash": "jQpueYR9Ak/nhBQet3zZAa4FVpAZi857KUnjdY3179ewAgIAAJ6dR+LO5AxMMGoblZUTSzQVLU8J595AXpV/Vw==",
   "success": true,
   "projectFilePath": "D:\\Learning\\KeyGen\\Keygen\\Keygen\\Keygen.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\adam.ai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\adam.ai\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
   ],
   "logs": []
