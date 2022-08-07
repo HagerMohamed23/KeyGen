@@ -13,3 +13,5 @@ D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\refint\Keygen.dll
 D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.pdb
 D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.genruntimeconfig.cache
 D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\ref\Keygen.dll
+D:\Learning\KeyGen\Keygen\Keygen\bin\Debug\net6.0\RestSharp.dll
+D:\Learning\KeyGen\Keygen\Keygen\obj\Debug\net6.0\Keygen.csproj.CopyComplete
